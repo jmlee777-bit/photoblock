@@ -1,0 +1,26 @@
+{
+ "name": "포토블록 PhotoBlock",
+ "short_name": "포토블록",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "orientation": "portrait",
+ "background_color": "#0F1114",
+ "theme_color": "#0F1114",
+ "icons": [
+  {
+   "src": "../icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "../icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
